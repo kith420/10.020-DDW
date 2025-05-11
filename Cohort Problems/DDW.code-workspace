@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../NTT_Internship/DS_Notebooks"
+		},
+		{
+			"path": "../../../../Coding/CP/AOC - 2024"
+		},
+		{
+			"path": "../../../../Coding/CP/ngajar"
+		},
+		{
+			"path": "../../../../Coding/CP/AOC - Round 2"
+		},
+		{
+			"path": "../../../SUTD Term 4/Compstruct"
+		},
+		{
+			"path": "../../../../Coding/CP/Codeforces/1008 Div. 2"
+		},
+		{
+			"path": "../../../../Coding/CP/Codeforces/Edu 176"
+		},
+		{
+			"path": "../../../SUTD Term 4/Compstruct/50.002-1D"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ios": "cpp",
+			"ostream": "cpp",
+			"vector": "cpp",
+			"random": "cpp",
+			"istream": "cpp",
+			"set": "cpp"
+		}
+	}
+}
